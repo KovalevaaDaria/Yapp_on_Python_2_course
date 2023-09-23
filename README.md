@@ -1,6 +1,8 @@
 # YAPP_python_2_course
 
-# <span style="color:#C0BFEC"> A program that counts the number of words in given project files**</span>
+# <span style="color:#C0BFEC"> Языки прикладного программирования
+Лабораторная работа №1 “Знакомство с Python”
+**</span>
 
 ## <span style="color:#C0BFEC">***Enter to run:*** </span>
 
