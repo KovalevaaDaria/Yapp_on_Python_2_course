@@ -29,6 +29,16 @@ http://cs.joensuu.fi/sipu/datasets/s1.txt
 Выполнять кластеризацию необходимо с помощью модуля scikit-learn, а строить графики с помощью matplotlib или seaborn.
 
 
+### <span style="color:#C0BFEC">Чтобы установить библиотеку matplotlib через терминал:
+```
+pip install matplotlib
+```
+
+### <span style="color:#C0BFEC">Чтобы установить библиотеку seaborn через терминал:
+```
+pip install seaborn
+```
+
 ## <span style="color:#C0BFEC">Методы кластеризации, которыми необходимо воспользоваться в программе:
 * KMeans 
 * AffinityPropagation
