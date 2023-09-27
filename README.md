@@ -2,17 +2,17 @@
 Лабораторная работа №2 “Визуализация данных при помощи Python”
 </span>
 
-Чтобы установить библиотеку pandas через терминал:
+# <span style="color:#C0BFEC">Чтобы установить библиотеку pandas через терминал:
 ```
 pip install pandas
 ```
 
-Чтобы установить библиотеку matplotlib через терминал:
+# <span style="color:#C0BFEC">Чтобы установить библиотеку matplotlib через терминал:
 ```
 pip install matplotlib
 ```
 
-Чтобы установить библиотеку seaborn через терминал:
+# <span style="color:#C0BFEC">Чтобы установить библиотеку seaborn через терминал:
 ```
 pip install seaborn
 ```
