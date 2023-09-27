@@ -2,6 +2,21 @@
 Лабораторная работа №2 “Визуализация данных при помощи Python”
 </span>
 
+## <span style="color:#C0BFEC">Чтобы установить библиотеку pandas через терминал:
+```
+pip install pandas
+```
+
+## <span style="color:#C0BFEC">Чтобы импортировать библиотеку matplotlib через терминал:
+```
+pip install matplotlib
+```
+
+## <span style="color:#C0BFEC">Чтобы импортировать библиотеку seaborn через терминал:
+```
+pip install seaborn
+```
+
 ## <span style="color:#C0BFEC">Задание 1:
 Взять датасет (ссылка, файл Cleaned_ships_data.csv) и в jupyter notebook визуализировать при помощи графиков: 
 1) 2-D график зависимости средней максимальной загрузки кораблей от длины корабля
