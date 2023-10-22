@@ -20,7 +20,7 @@
 ## <span style="color:#C0BFEC">Название файла:</span>
 
 ```
-russian demographic.csv
+russian_demographic.csv
 ```
 
 ## <span style="color:#C0BFEC">Необходимо: по выбранной пользователем колонке, с учетом фильтра по региону вывести:</span>
